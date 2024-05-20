@@ -1,6 +1,6 @@
 👋 Oii! Eu sou a Júlia Monteiro 
 - 
-- Atualmente sou estudante de TI, estou cursando o 1° período de Ciência da Computação.
+- Atualmente sou estudante de TI e estou cursando o 1° período de Ciência da Computação.
 > Conheço e já utilizei as seguintas linguagens:
 - HTML
 - CSS
