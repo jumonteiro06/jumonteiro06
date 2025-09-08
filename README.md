@@ -1,22 +1,25 @@
 👋 Oii! Eu sou a Júlia Monteiro 
 - 
-- Atualmente sou estudante de TI e estou cursando o 2° período de Ciência da Computação.
+- Atualmente sou estudante de TI e estou cursando o 4° período de Ciência da Computação.
 - Conheço e já utilizei as seguintas linguagens:
 > HTML
 
 > CSS
 
-> PYTHON
+> Python
 
 > Javascript
 
->Java 
+> Java
+
+> MySQL
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div><br>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumonteiro06&hide=contribs,prs_icons=true&theme=radical)
