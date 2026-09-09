@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Júlia Monteiro
 
-🎓 Estudante de Ciência da Computação (5º período)
+🎓 Estudante de Ciência da Computação (6º período)
 
 💼 Estagiária de TI com foco em:
 - Inteligência Artificial
