@@ -20,7 +20,7 @@
 - CSS
 - JavaScript
 - Java
-- MySQL
+- SQL
   
 
 ## Atualmente estudando
